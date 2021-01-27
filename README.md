@@ -8,4 +8,4 @@ Horiseon is a web page made to practice code refactor. Is a challege designed fo
 
 
 ## Link to Website
-[Horiseon](./index.html)
+[Horiseon](https://hbbc248.github.io/Horiseon/)
