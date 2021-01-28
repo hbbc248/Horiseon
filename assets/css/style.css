@@ -3,7 +3,6 @@
     padding: 0;
     margin: 0;
 }
-
 body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -79,10 +78,8 @@ header nav ul li {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     background-color: #2589bd;
 }
 .benefits div {
@@ -99,14 +96,14 @@ header nav ul li {
 }
 /* benefits style end */
 /* footer style start */
-.footer {
+footer {
     color: black;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 /* footer style end */
